@@ -1,7 +1,7 @@
 # A JavaScript Calculator App #
 A Simple Calculator built with HTML, CSS and JavaScript.
 
-View Live App: 
+View App Live: 
 https://simple-javascript-calculator-app.s3.eu-west-2.amazonaws.com/index.html
 
 ## To View The Site ##
